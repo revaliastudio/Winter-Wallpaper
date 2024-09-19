@@ -5,15 +5,11 @@
       "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-7615880214648928/1597951224",
       "main_ads_intertitial":"ca-app-pub-7615880214648928/9688920587",
-      "main_ads_natives":"",
-      "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
+      "open_app_ads":"ca-app-pub-7615880214648928/5230953099",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -1138,6 +1134,34 @@
       "wallpaper_name": "SSBG158",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/0e/f0/cf/0ef0cfb2ff0c7f42aa41d82494b26e48.jpg"
+    },
+	{
+      "id": 159,
+      "name_category": "Winter",
+      "wallpaper_name": "SSBG159",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/35/10/04/351004ecbf5b8625632904679c43fc61.gif"
+    },
+	{
+      "id": 160,
+      "name_category": "Winter",
+      "wallpaper_name": "SSBG160",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/8f/4a/32/8f4a327626195788266054e2ee41db3a.gif"
+    },
+	{
+      "id": 161,
+      "name_category": "Winter",
+      "wallpaper_name": "SSBG161",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/5e/cf/78/5ecf780916b5282d11958d63056d4ac5.gif"
+    },
+	{
+      "id": 162,
+      "name_category": "Winter",
+      "wallpaper_name": "SSBG162",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/1f/e7/ed/1fe7ed103e2276398f64c3c8c3863a3e.gif"
     }
   ]
 }
