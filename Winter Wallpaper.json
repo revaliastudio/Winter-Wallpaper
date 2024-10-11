@@ -8,7 +8,7 @@
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "open_app_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 10,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
